@@ -1,7 +1,11 @@
 ---
-title: My Second Post
+title: Grid Stamping
 layout: default
 desc: This is my second post
+tags: Die-Cutting Encouragement Foiling General-Cards
+img: /img/forrest.jpg
 ---
 
-This card is a project I filmed for my Doodling With Debby series at Simon Says Stamp. This month I'm painting the gorgeous Spring Flowers Background from Shimon Says Stamp and giving tips and tricks for no-line watercolouring. I've linked all supplies with...
+Hello Friends,
+
+Today's post is about grid stamping.
