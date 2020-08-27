@@ -2,7 +2,8 @@
 title: Test...Test...Hello World!
 layout: page
 desc: This is my first post
-img: /img/2020-08-26-helloworld_bg.jpg
+img: /img/2020-08-26-helloworld_thumbnail.jpg
+altimg: /img/2020-08-26-helloworld_bg.jpg
 tags: Hello Die-Cutting Embossing General-Cards
 ---
 
