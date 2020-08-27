@@ -1,5 +1,5 @@
 name: Crafty Charms
 
 url: https://bansd.github.io
-baseurl: 
+baseurl: /craftycharms
 theme: jekyll-theme-minimal
