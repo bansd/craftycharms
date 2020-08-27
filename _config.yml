@@ -2,3 +2,4 @@ name: Crafty Charms
 
 url: http://mysite.com
 baseurl: 
+theme: jekyll-theme-minimal
