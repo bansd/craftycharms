@@ -88,9 +88,12 @@
 							<div class="carousel-item">
 								<img alt="slide 2" href="{{ site.baseurl }}{{post.url}}" class="d-inline-block w-100" src="{{ site.baseurl }}{{post.altimg}}" />
 								<div class="carousel-caption">
-									<h4>
+									<a href="{{ site.baseurl }}{{post.url}}">
+										<img src="img/lazyload-ph.png" data-src="img/checkoutpost_black.png" class="img-fluid mx-auto d-block lazyload" srcset="img/placeholder-image.png x" alt="Untitled_Artwork%205" />
+									</a>
+									<!-- <h4>
 										<a href="{{ site.baseurl }}{{post.url}}">Check out my latest post!</a>
-									</h4>
+									</h4> -->
 								</div>
 							</div>
 						{% endfor %}
