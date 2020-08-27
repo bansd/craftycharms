@@ -24,7 +24,8 @@ I finally die-cut "hello" word, you can use any word combination here. You can s
 
 This card is such quick, simple, and so easy, you can switch the color combinations and words and create endless possibilities. I hope you like it, and I can't wait to see your creation! Thank you for stopping by and lots of love!
 
--B
+Cheers,
+Bansari
 
 
 
