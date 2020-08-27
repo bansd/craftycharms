@@ -29,20 +29,20 @@
 		<div class="row">
 			<div class="col">
 				<nav class="navbar navbar-light row navbar-expand-md" role="navigation">
-					<a class="navbar-brand" href="/index.html">My Crafty Charms<br></a>
+					<a class="navbar-brand" href="{{site.baseurl}}/index.html">My Crafty Charms<br></a>
 					<button id="nav-toggle" type="button" class="ml-auto ui-navbar-toggler navbar-toggler border-0 p-0" data-toggle="collapse" data-target=".navbar-9913" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
 					<div class="collapse navbar-collapse navbar-9913">
 						<ul class="site-navigation nav navbar-nav ml-auto ">
 							<li class="nav-item">
-								<a href="/index.html" class="nav-link">Home</a>
+								<a href="{{site.baseurl}}/index.html" class="nav-link">Home</a>
 							</li>
 							<li class="nav-item">
-								<a href="/blog.html" class="nav-link">Blog</a>
+								<a href="{{site.baseurl}}/blog.html" class="nav-link">Blog</a>
 							</li>
 							<li class="nav-item">
-								<a href="/about.html" class="nav-link">About</a>
+								<a href="{{site.baseurl}}/about.html" class="nav-link">About</a>
 							</li>
 						</ul>
 					</div>
@@ -94,7 +94,7 @@
 	<div class="container bloc-sm">
 		<div class="row">
 			<div class="col-12">
-				<img src="{{page.img}}" data-src="{{page.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image-wide" />
+				<img src="{{site.baseurl}}{{page.img}}" data-src="{{site.baseurl}}{{page.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image-wide" />
 			</div>
 		</div>
 	</div>
@@ -124,7 +124,7 @@
 					Recent Posts
 				</h4>
 				{% for post in site.posts limit:4 %}
-					<a href="{{ post.url }}" class="a-btn a-block footer-link">{{ post.title }}</a>
+					<a href="{{site.baseurl}}{{ post.url }}" class="a-btn a-block footer-link">{{ post.title }}</a>
 				{% endfor %}				
 			</div>
 			<div class="col-md-3 col-sm-6">

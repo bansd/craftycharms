@@ -75,7 +75,7 @@
 						{% assign remainder = forloop.index0 | modulo: 2 %}
 						{% if remainder == 0 %}
 							<div class="col-md-6">
-								<img src="img/lazyload-ph.png" href="{{ post.url }}" data-src="{{post.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
+								<img src="img/lazyload-ph.png" href="{{site.baseurl}}{{ post.url }}" data-src="{{site.baseurl}}{{post.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
 							</div>
 						{% endif %}
 						<div class="col-md-6 align-self-center">
@@ -88,11 +88,11 @@
 							<p>
 								{{ post.excerpt }}
 							</p>
-							<a href="{{ post.url }}" class="btn btn-lg wire-btn-granny-smith-apple btn-wire">More Info</a>		
+							<a href="{{site.baseurl}}{{ post.url }}" class="btn btn-lg wire-btn-granny-smith-apple btn-wire">More Info</a>		
 						</div>
 						{% if remainder != 0 %}
 							<div class="col-md-6">
-								<img src="img/lazyload-ph.png" href="{{ post.url }}" data-src="img/red-leaves.jpg" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
+								<img src="{{site.baseurl}}/img/lazyload-ph.png" href="{{site.baseurl}}{{ post.url }}" data-src="{{site.baseurl}}{{post.img}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
 							</div>
 						{% endif %}
 					</div>
