@@ -46,9 +46,6 @@
 							<li class="nav-item">
 								<a href="about.html" class="nav-link">About</a>
 							</li>
-							<li class="nav-item">
-								<a href="page.html" class="nav-link">Page</a>
-							</li>
 						</ul>
 					</div>
 					<div class="navbar-content-area d-block col-12 col-md-3 col-lg-2">
@@ -78,7 +75,7 @@
 						{% assign remainder = forloop.index0 | modulo: 2 %}
 						{% if remainder == 0 %}
 							<div class="col-md-6">
-								<img src="img/lazyload-ph.png" href="{{ post.url }}" data-src="img/red-leaves.jpg" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
+								<img src="img/lazyload-ph.png" href="{{ post.url }}" data-src="{{post.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
 							</div>
 						{% endif %}
 						<div class="col-md-6 align-self-center">
@@ -118,17 +115,14 @@
 			<div class="col-md-3 col-sm-6">
 				<h4 class="mg-md text-sm-left text-center">
 					Recent Posts
-				</h4><a href="index.html" class="a-btn a-block footer-link">The Team</a><a href="index.html" class="a-btn a-block footer-link">Contact Us</a>
+				</h4>
+				{% for post in site.posts limit:4 %}
+					<a href="{{ post.url }}" class="a-btn a-block footer-link">{{ post.title }}</a>
+				{% endfor %}				
 			</div>
 			<div class="col-md-3 col-sm-6">
-				<h4 class="mg-md text-sm-left text-center">
-					Techniques<br>
-				</h4><a href="index.html" class="a-btn a-block footer-link">Android</a><a href="index.html" class="a-btn a-block footer-link">iOS</a>
 			</div>
 			<div class="col-md-3 col-sm-6">
-				<h4 class="mg-md text-sm-left text-center">
-					Themes<br>
-				</h4><a href="index.html" class="a-btn a-block footer-link">Twitter</a><a href="index.html" class="a-btn a-block footer-link">Facebook</a>
 			</div>
 			<div class="col-md-3 col-sm-6">
 				<h4 class="mg-md text-sm-left text-center">
@@ -137,22 +131,12 @@
 				<div class="row">
 					<div class="col-6 col-sm-2 col offset-sm-0">
 						<div class="text-center">
-							<a href="https://blocsapp.com/"><span class="fa fa-facebook-official icon-md"></span></a>
+							<a href="https://www.youtube.com/channel/UCvVQjHdn0AC7THvomf50b2w"><span class="icon-md ion ion-social-youtube"></span></a>
 						</div>
 					</div>
 					<div class="col-6 col-sm-2">
 						<div class="text-center">
-							<a href="https://blocsapp.com/"><span class="fa fa-twitter icon-md"></span></a>
-						</div>
-					</div>
-					<div class="col-6 col-sm-2">
-						<div class="text-center">
-							<a href="https://blocsapp.com/"><span class="fa fa-instagram icon-md"></span></a>
-						</div>
-					</div>
-					<div class="col-6 col-sm-2">
-						<div class="text-center">
-							<a href="https://blocsapp.com/"><span class="fa fa-envelope-o icon-md"></span></a>
+							<a href="https://www.instagram.com/oh.my.craftycharms/"><span class="fa fa-instagram icon-md"></span></a>
 						</div>
 					</div>
 				</div>
