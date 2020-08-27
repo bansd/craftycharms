@@ -86,10 +86,10 @@
 						{% for post in site.posts limit:1  %}
 						
 							<div class="carousel-item">
-								<img alt="slide 2" href="{{post.url}}" class="d-inline-block w-100" src="{{post.altimg}}" />
+								<img alt="slide 2" href="{{ site.baseurl }}{{post.url}}" class="d-inline-block w-100" src="{{ site.baseurl }}{{post.altimg}}" />
 								<div class="carousel-caption">
 									<h4>
-										<a href="{{post.url}}">Check out my latest post!</a>
+										<a href="{{ site.baseurl }}{{post.url}}">Check out my latest post!</a>
 									</h4>
 								</div>
 							</div>
@@ -145,7 +145,7 @@
 			{% for post in site.posts %}
 				<div class="align-self-center mt-3 col-lg-4 col-md-4">
 					<div class="card">
-						<img src="{{ post.img}}" data-src="{{ post.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
+						<img src="{{ site.baseurl }}{{ post.img}}" data-src="{{ site.baseurl }}{{ post.img}}" class="img-fluid mx-auto d-block lazyload" alt="placeholder image" />
 						<div class="card-body">
 							<h4 class="mg-md tc-dark-jungle-green">
 								{{ post.title}}
@@ -154,7 +154,7 @@
 								{{ post.date | date: "%b %-d, %Y" }}
 							</h6>
 							<p> {{ post.excerpt }} </p>
-							<a href="{{ post.url}}" class="btn wire-btn-granny-smith-apple btn-wire">READ MORE</a>
+							<a href="{{ site.baseurl }}{{ post.url}}" class="btn wire-btn-granny-smith-apple btn-wire">READ MORE</a>
 						</div>
 					</div>
 				</div>
