@@ -257,7 +257,7 @@ button{
 -------------------------------------------------------------- */
 
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{
-	font-family:"Alata-Regular";
+	font-family:"FontAwesome";
 }
 .container{
 	max-width:1140px;
@@ -270,18 +270,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:100%;
 }
 .h2-style{
-	font-family:"Alata-Regular";
+	font-family:"FontAwesome";
 }
 .h3-style{
-	font-family:"Alata-Regular";
+	font-family:"FontAwesome";
 	font-weight:600;
 }
 .h3-color{
 	color:#ffffff;
-	font-family:"Alata-Regular";
+	font-family:"FontAwesome";
 }
 .h3-fav1-style{
-	font-family:"Alata-Regular";
+	font-family:"FontAwesome";
 }
 .team-card{
 	min-height:350px;

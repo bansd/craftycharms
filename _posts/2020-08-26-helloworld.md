@@ -13,7 +13,6 @@ Many of you might not know, but I am a software engineer by the day, and a craft
 
 Truth to be told, since this was my first post, I had built an inate pressure to make a perfect "hello" card. There were tons of ideas popping in my mind, and I was really having a hard time deciding a theme or layout for the card. Lol, happens to many of us, all the time, pressure to be "perfect". So, to break this, I just decided to go with the flow, I took my brush, colors, and started painting, and I came up with this card, simple, not-so-perfect but a perfect hello card.
 
-
 <img src="/img/lazyload-ph.png" data-src="/img/2020-08-26-helloworld_1.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
 
 I have used [mica gold & silver metallic watercolors set](!https://www.amazon.com/Coliro-M600-Watercolor-Metallic-6-Color/dp/B01D081YK8) for painting the stripes on the card. You can try this with any other color palette. 
