@@ -34,5 +34,6 @@ I'll be adding Amazon/Joann links, but you should also search them in your favor
  
 Hope you enjoyed reading this, and I just can't wait to see what you'll create. 
 
+
 Cheers,
 Bansari
