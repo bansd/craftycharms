@@ -2,29 +2,54 @@
 title: Interactive Space Card(Lot of Surprises)!
 layout: page
 desc: MFT Challenge Space Interactive Card 
-img: /img/2020-09-07-PeekabooFun/thumbnail.jpg
-altimg: /img/2020-09-07-PeekabooFun/background.jpg
-tags: Copic Stamping Slimline Die-Cutting AveryElle
+img: /img/2020-09-20-SpaceInteractiveCard/background.jpg
+altimg: /img/2020-09-20-SpaceInteractiveCard/background.jpg
+tags: Copic Stamping Interactive Die-Cutting mft
 ---
 
-In today's post, I'll be sharing a slimline card that I have made using AveryElle peek a boo pets stamp set. I actually loved this theme so much so that I almost got their entire peek-a-boo set.
+Hi there,
 
-I had cut a solar white neenah cardstock into 7" x 9" and folded it into half, so it's 3.5" x 9". Then, I've used wave stitched die and cut papers to get mountains and used distress inks to give green meadow effect.
+I am back today with a space-birthday theme interactive card. This is my card for innovation category - mft superstar 2020. I have created a double slider card where rocket takes off to space and a surprise is waiting. To add some more twist, I decided to add rocket stand that detaches from rocket  as it takes off to space.
 
-<img src="/img/lazyload-ph.png" data-src="/img/2020-09-07-PeekabooFun/c1.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+<div class="col-12">
+    <div class="card-columns">
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/1a.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/1b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/1c.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+    </div>
+</div>
 
-I also used a cloud stencil that I cut myself using silhouette cameo machine to and used tumbled glass distress ink to color the cloud silhouette. I also used dotted wavy border die by Avery Elle to cut out the mountains.
+This will be a long post, so I’ll get to nitty gritty details right away. So, for the exterior of the card, I have created a double slider card. For the top panel, I wanted to create space background. To achieve that effect, I used distress oxide inks and sprayed water mist + opaque white copic color.
 
-For the farm animal critters, I have used X-Press IT copic blending paper to stamp and used copic colors to color them. This was my first time using copic blending papers, and man, so worth the money!!! I was so impressed by the blending result I was able to achieve. I will be still researching for more papers for copic but till then will be using Xpress-It pad.
+I used white gelly rolly pen to create shining stars, and I also used wow embossing powder metallic gold powder to emboss stars stamped from ——-.
+For the lower panel, I used cloud stencils to create some clouds, initially when rocket takes off, it will show like the smoke is from rocket, and later it will have a suprise sentiment hidden that will display when you pull the slider card.
 
-<img src="/img/lazyload-ph.png" data-src="/img/2020-09-07-PeekabooFun/c2.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+<div class="col-12">
+    <div class="card-columns">
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/1d.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/1e.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+    </div>
+</div>
 
-And then I just die-cut all my images and put together on the stamp. Now, looking back I wish I could have sprayed water mist on the meadow, just to get that "magical" distress ink texture. And that's all folks!
+Now, for the top middle pannel, I have cut out a slot using ____. This is so that rocket can take off. Now, I added another slider card on top of existing slider card, so rocket can launch off automatically when you pull the older slider card panels. 
 
-I hope you are having amazing long weekend so far! Also, be sure to catch those amazing crafty deals!
+I cut out some stripes from black card stock to create a rocket-stand. Then I cut out arms from thicker card stock and attached one end to base of second slider card, and other one to top end of stand. This mechanism will make rocket gates move. 
+
+Then I used double foam to attach rocket ship to the base of second double slider panel. 
+
+I heat embossed two sentiments from —- and —— stamp set using opaque white embossing powder. And that’s front of the card.
+
+Now, for the inside of the card, I created space background using same technique as mentioned above. I used black memento ink to stamp from  —— stampset. I used copic color markers to color them. I then cut out stripes from left over paper from space background and used them to create 3d pop out panels. I then glued my stamp images on top of these panels. And that’s it!
+
+<div class="col-12">
+    <div class="card-columns">
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/2a.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+        <img src="/img/lazyload-ph.png" data-src="/img/2020-09-20-SpaceInteractiveCard/2b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
+    </div>
+</div>
 
 #### Supplies Used
-I'll be adding Amazon/Joann links, but you should also search them in your favorite craft store/site, they might have good discounts, or just google them for best price.
+I'll be adding Amazon/Joann links
  - [Avery Elle - Peek a boo pets](!https://amz.run/3YVi)
  - [Avery Elle - Elle Ments Dies Dotted Border](!https://www.joann.com/elle-ments-dies-dotted-borders/14342083.html)
  - [Cloud Stencil](!https://honeybeestamps.com/products/outdoor-scene-builder-stencils-set-of-4?_pos=1&_sid=0e79358c7&_ss=r)
