@@ -13,7 +13,7 @@ I am back today with a space-birthday theme interactive card. This is my card fo
 
 <div class="col-lg-6 offset-lg-3 offset-md-2 col-md-8">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item lazyload" src="/img/2020-09-20-SpaceInteractiveCard/background.jpg" data-src="https://www.youtube.com/watch?v=LWqBxKAaCbk" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LWqBxKAaCbk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </iframe>
     </div>
 </div>
