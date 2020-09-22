@@ -11,6 +11,13 @@ Hi there,
 
 I am back today with a space-birthday theme interactive card. This is my card for innovation category - MFT Superstar 2020. I have created a double slider card(with a twist ;)) where rocket takes off to the space and a surprise is awaiting. To make it little more challenging, I decided to add rocket stand that detaches from rocket as it takes off to space. This mechanism took me forever, but I am glad I was able to put everything together just in time.
 
+<div class="col-lg-6 offset-lg-3 offset-md-2 col-md-8">
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item lazyload" src="/img/2020-09-20-SpaceInteractiveCard/background.jpg" data-src="https://www.youtube.com/watch?v=LWqBxKAaCbk" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+        </iframe>
+    </div>
+</div>
+
 I have mostly used Best Friends in the Universe and Blast-off Dienamics by MFT for this card, but also have mixed sentiments or critters from other stamp set, which I will mention as we progress.
 
 <div class="col-12">
