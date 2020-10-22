@@ -4,7 +4,7 @@ layout: page
 desc: An Interactive Yummy Card 
 img: /img/2020/10/10-i-scream-icecream/background.gif
 altimg: /img/2020/10/10-i-scream-icecream/background.gif
-tags: Halloween Stamping Interactive Die-Cutting MFT
+tags: HeroArts Stamping Interactive 
 ---
 
 This is one of the most easiest and yummiest interactive card I've ever made. I love love ice-cream especially any flavors with chocolate in it. I tried to put some of my favorite flavors in this card, while I am on no-icecream diet.
