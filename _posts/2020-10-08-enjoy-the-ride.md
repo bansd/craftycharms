@@ -1,10 +1,13 @@
 ---
+layout: post
 title: Enjoy the ride!
-layout: page
-desc: A beautiful stampset by StampingBella
-img: /img/2020/10/09-enjoy-the-ride/background.jpg
-altimg: /img/2020/10/09-enjoy-the-ride/background.jpg
-tags: StampingBella Copics Stamping
+date: 2020-10-08 09:33:38
+images: 
+  - images/2020/10/08-enjoy-the-ride/1.png
+excerpt:
+  I wanted to do line vs no-line coloring and I thought enjoy the ride stampset by StampingBella was just perfect.
+categories: CardMaking
+tags: StampingBella CopicMarker Stamping
 ---
 
 I finally completed my copics set. YAY, I know, right! And I wanted to go full in with all coloring copics. I wanted to do line vs no-line coloring and I thought enjoy the ride stampset by StampingBella was just perfect.

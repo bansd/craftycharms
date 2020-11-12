@@ -1,10 +1,14 @@
 ---
+layout: post
 title: Floral Watercolor Card
-layout: page
-desc: A beautiful watercolor card
-img: /img/2020/09/27-floralcards/background.jpg
-altimg: /img/2020/09/27-floralcards/background.jpg
-tags: StampingBella Copics Stamping
+date: 2020-09-27 09:33:38
+images: 
+  - images/2020/09/27-floralcards/1.png
+  - images/2020/09/27-floralcards/2.png
+excerpt:
+  A floral watercolor painting
+categories: CardMaking
+tags: StampingBella WaterColoring Stamping
 ---
 
 I love to use watercolors with any project. Absolutely love how much satisfying the whole process it. I wish I could devote more time everyday to watercolor. 
@@ -12,15 +16,6 @@ I love to use watercolors with any project. Absolutely love how much satisfying 
 I have used peony bouquet builder stamp set from Waffle Flower Craft. I have used Alpine Rose and Persimmon colors from Dr. Ph. Martin's Bombay India Ink for the beautiful roses. I have used Juniper Green and Grass Green from the same set for the leaves. I cut out the flowers and leaves using matching die, and arranged on a patterned white cardstock. I then splattered some white and black paint on the card to add some texture to the card. 
 
 I have used sentiment from Altenew's Beautiful Day stampset. I stamped it using Memento Black Ink. To add the dew drops on the card, I have used Glossy Accents. I really love to use this product, and try to use it in my projects as much as possible.
-
-<div class="col-12">
-    <div class="card-columns">
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/09/27-floralcards/1a.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/09/27-floralcards/1b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/09/27-floralcards/1c.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-    </div>
-</div>
-<br>
 
 That's all folks! I hope you enjoyed reading this post. See you soon!
 

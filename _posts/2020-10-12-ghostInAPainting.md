@@ -1,9 +1,14 @@
 ---
+layout: post
 title: Ghost In A Painting!
-layout: page
-desc: An Interactive Halloween Card 
-img: /img/2020-10-12-ghostInAPainting/background.gif
-altimg: /img/2020-10-12-ghostInAPainting/background.jpg
+date: 2020-10-12 09:33:38
+images: 
+  - images/2020/10/12-ghostInAPainting/1.png
+  - images/2020/10/12-ghostInAPainting/2.png
+  - images/2020/10/12-ghostInAPainting/3.png
+excerpt:
+  Pretty sure this painting is haunted by a cute ghost. Look closely now!
+categories: CardMaking
 tags: Halloween Stamping Interactive Die-Cutting MFT
 ---
 
@@ -11,15 +16,6 @@ As most of you know, I love interactive cards, and halloween is great theme to i
 
 I have used ghostly greetings stamp set from MFT to stamp 3 Headstones and a ghost. I have used copic markers, mostly in shades of C, T, N, and W to color them.
 For the base painting, I used distress oxide inks to get that chalky effect. I have used worn lipstick, seedless preserves and fossilized amber. I stamped them a plastic sheet, spiritzed it with water and them put my carstock on it. I did it multiple times to get more color on my paper.
-
-<div class="col-12">
-    <div class="card-columns">
-        <img src="/img/lazyload-ph.png" data-src="/img/2020-10-12-ghostInAPainting/1a.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-        <img src="/img/lazyload-ph.png" data-src="/img/2020-10-12-ghostInAPainting/1c.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-        <img src="/img/lazyload-ph.png" data-src="/img/2020-10-12-ghostInAPainting/1b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-    </div>
-</div>
-
 
 For the ghost swinging mechansim in this card, I have used swing interactive dies from MFT, however, you can also build that mechanism by yourself too. I have then used rectangle frame dies from lawn fawn to put everything together. In retrospect, I think I should have used gold paper, just to get that vintage frame charm. I'll save this for my next card. :)
 

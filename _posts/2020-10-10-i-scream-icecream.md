@@ -1,10 +1,13 @@
 ---
+layout: post
 title: One, Two, Many Scoops...
-layout: page
-desc: An Interactive Yummy Card 
-img: /img/2020/10/10-i-scream-icecream/background.gif
-altimg: /img/2020/10/10-i-scream-icecream/background.gif
-tags: HeroArts Stamping Interactive 
+date: 2020-10-10 09:33:38
+images: 
+  - images/2020/10/10-i-scream-icecream/background.gif
+excerpt:
+  This is one of the most easiest and yummiest interactive card I've ever made.
+categories: CardMaking
+tags: HeroArts Stamping Interactive
 ---
 
 This is one of the most easiest and yummiest interactive card I've ever made. I love love ice-cream especially any flavors with chocolate in it. I tried to put some of my favorite flavors in this card, while I am on no-icecream diet.
@@ -15,13 +18,6 @@ I have used solar white Neenah Cardstock as my base, and baby pink cardstock as 
 
 My sentiment stamp is from sweetest wishes by MFT, where I have stamped it on a white paper using Memento Black Ink Pad. To cover up my mistakes, and make card look pretty, I have then used Nuvo Drops as embellishments on top of the card.
 
-<div class="col-12">
-    <div class="card-columns">
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/10/10-i-scream-icecream/1a.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-         <img src="/img/lazyload-ph.png" data-src="/img/2020/10/10-i-scream-icecream/1b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-    </div>
-</div>
-<br>
 #### Supplies Used
 I'll be adding Amazon/Joann links 
 - [Hero Arts Layering Ice Cream](!https://amz.run/3qfB)

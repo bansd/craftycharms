@@ -1,21 +1,19 @@
 ---
-title: Interactive Pull Tab Card(Up movie)
-layout: page
-desc: An Interactive card inspired from Up Movie 
-img: /img/2020/10/22-interactive-up-card/background.gif
-altimg: /img/2020/10/22-interactive-up-card/background.jpg
-tags: Interactive MFT LawnFawn Copics
+layout: post
+title: Up Movie Card Inspiration
+date: 2020-10-22 09:33:38
+images: 
+  - images/2020/10/22-interactive-up-card/1.png
+excerpt:
+  An Interactive Pull Tab Card inspired from one of my favorite movie - "Up".
+categories: CardMaking
+tags: Interactive MFT LawnFawn CopicMarker
 ---
 
 Hello All! I am back again with a bang, I finally have video ready for Interactive Pull tab card inspired from one of my favorite Up movie. I am so sorry that I had been not able to upload new posts for a while, but I had been swamped with lot of stuff at work. I hope you guys find the video useful!
 The camera goes crazy with auto focus, so I had to cut my all the coloring part with copics. But hopefully, you can enjoy rest of the video, and especially the part where I was able to hide the pull tab. 
 
-<div class="col-lg-6 offset-lg-3 offset-md-2 col-md-8">
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/9FBsKlTEKYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
-<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9FBsKlTEKYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I stamped balloon bundle stampset from MFT using Memento black ink pad. I love to use this ink-pad especially when I am coloring with copics. I also stamped and colored house, fence, trees, car, shipping boxes from happy village set from lawn fawn. I colored all the images using my copic markers.
 
@@ -23,14 +21,6 @@ I'll try my best to explain how I put together pull tab mechanism but I would hi
 
 Please note, I had already attached balloons to the house before I attached balloons to the horizontal strip, so house will also move together, when I pull the vertical pull tab strip. I had built background using MFT cloud stencil and die-cut hill using hill dies from mama elephant, and colored it using twisted citron distress ink. Once everything was put in place I attached the top card on the bottom base card using foam tape. And, then I glued rest of the images(trees, fence, car, boxes) I had stamped on the top card. For the sentiment, I used one BB Adorable Elephants which is from MFT stamps, however I think I use different one in video, and that is from adorable Adventures stamp set. I used white embossing powder from Wow to emboss the sentiment on a black cardstock.
 
-<div class="col-12">
-    <div class="card-columns">
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/10/22-interactive-up-card/1a.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/10/22-interactive-up-card/1b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-        <img src="/img/lazyload-ph.png" data-src="/img/2020/10/22-interactive-up-card/1b.jpg" class="img-fluid mx-auto d-block lazyload" alt="sanfran" />
-    </div>
-</div>
-<br/>
 And that's all! Hope you enjoyed reading this, and I just can't wait to see what your create!
 
 Happy Friday Ya'll!

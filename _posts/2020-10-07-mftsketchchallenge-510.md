@@ -1,10 +1,13 @@
 ---
+layout: post
 title: MFT Weekly Sketch Challenge 510
-layout: page
-desc: An Interactive Halloween Card 
-img: /img/2020/10/07-mftsketchchallenge-510/background.jpg
-altimg: /img/2020/10/07-mftsketchchallenge-510/background.jpg
-tags: Challenge Stamping MFT
+date: 2020-10-07 09:33:38
+images: 
+  - images/2020/10/07-mftsketchchallenge-510/1.png
+excerpt:
+  Fall is nearing and this card reminds me of camping, music, marshmallows and all my favorite things I do in fall...
+categories: CardMaking
+tags: Challenges Stamping MFT
 ---
 
 Fall is nearing and this card reminds me of camping, music, marshmallows and all my favorite things I do in fall. I absolutely love all of Stacey Yacula's illustrations, and I have used one of my favorite stampset Happy Campers from MFT for this weekly sketch challenge #510.
