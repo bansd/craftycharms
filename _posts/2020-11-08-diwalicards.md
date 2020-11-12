@@ -3,11 +3,11 @@ layout: post
 title: Diwali Special Cards#1
 date: 2020-11-08 09:33:38
 images: 
-  - images/2020/11/08-diwalicards/1.png
+  - images/2020/11/08-DiwaliCards/1.png
 excerpt:
   I made Diwali Cards using gorgeous Diwali sentiment and some stencils
 categories: CardMaking
-tags: Diwali Die-Cutting LawnFawn 
+tags: Diwali Stenciling CraftyMeraki 
 ---
 
 Hello Everyone,
