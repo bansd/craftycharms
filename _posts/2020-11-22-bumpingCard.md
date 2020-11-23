@@ -14,9 +14,14 @@ Hello Everyone,
 
 Isn't interactive card fun? Btw, I have some very exciting news to share with you all, which I'll do next week, so wait for it! I have made a video to walk you through my card making process. So, hope you enjoy watching it!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NwTUJIx0PXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NwTUJIx0PXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The bumping into each other mechanism is actually double slider mechanism beneath the hood. I'll be using MFT Double Slider Loop Die, but you can easily create slider slots using craft blade. I am using Avery Elle Peek a boo Fair and Coaster Stamp sets for the card today. I stamped it using Memento Black Ink and colored using various Copic markers. 
+
+<img alt src="/images/2020/11/22-bumpingCard/1.png">
 
 I then cut out double slider loop on a white paper strip, and used a strip from plastic sandwich bag(you can get this easily from any grocery store) to create sliding loop. I used stapler to secure the ends together. Cut out strips and place first one on top left, and second one on bottom right. Use another paper strip that will make the mechanism pull. 
 
