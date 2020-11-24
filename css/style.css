@@ -2051,12 +2051,16 @@ form input.error, form textarea.error {
 .modClients .slick-slider {
   margin-bottom: 10px;
 }
+
 .modDefaultSlider .sequence {
   height: 386px;
   position: relative;
   width: 100%;
   color: #fff;
+  margin: 0 auto;
+  background: #F0D8D6;
 }
+
 .modDefaultSlider .sequence p {
   font-size: 24px;
   letter-spacing: 2px;

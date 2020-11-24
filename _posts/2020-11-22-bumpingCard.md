@@ -17,6 +17,7 @@ Isn't interactive card fun? Btw, I have some very exciting news to share with yo
 <div class="videoWrapper">
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NwTUJIx0PXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 </div>
 
 The bumping into each other mechanism is actually double slider mechanism beneath the hood. I'll be using MFT Double Slider Loop Die, but you can easily create slider slots using craft blade. I am using Avery Elle Peek a boo Fair and Coaster Stamp sets for the card today. I stamped it using Memento Black Ink and colored using various Copic markers. 
