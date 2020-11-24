@@ -1,11 +1,12 @@
 # Site settings
-title: Crafty Charms
+title: My Crafty Charms
+description: Hey There! I am Bansari, and welcome to my happiness place, where I share my crafty adventures.
 url: https://bansd.github.io
 baseurl: 
 
 # Build settings
 markdown: kramdown
-
+google_analytics: G-PH8CFT30EY
 
 paginate: 3
 paginate_path: "blog/page:num"
