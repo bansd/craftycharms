@@ -27,14 +27,14 @@ Bansari
 
 #### Supplies Used
 ##### Stamps + Dies
- - [Skinny Alphabet Dies](!https://www.scrapbook.com/store/sbc-alphadies-1.html)
- - [Classic Alphabet Dies](!https://www.scrapbook.com/store/sbc-alphadies-3.html)
- - [My Favorite Things A2 stitched rectangle stax set 1](!https://mftstamps.com/products/a2-stitched-rectangle-stax-set-2-die-namics)
+ - [Skinny Alphabet Dies](https://www.scrapbook.com/store/sbc-alphadies-1.html)
+ - [Classic Alphabet Dies](https://www.scrapbook.com/store/sbc-alphadies-3.html)
+ - [My Favorite Things A2 stitched rectangle stax set 1](https://mftstamps.com/products/a2-stitched-rectangle-stax-set-2-die-namics)
 
 ##### Paper
  - Lot of scrappy papers
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
 
 ##### Misc
- - [Die Cutting Machine](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) 
+ - [Die Cutting Machine](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) 
  

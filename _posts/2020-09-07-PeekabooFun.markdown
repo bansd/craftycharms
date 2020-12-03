@@ -24,12 +24,12 @@ I hope you are having amazing long weekend so far! Also, be sure to catch those 
 
 #### Supplies Used
 I'll be adding Amazon/Joann links, but you should also search them in your favorite craft store/site, they might have good discounts, or just google them for best price.
- - [Avery Elle - Peek a boo pets](!https://amz.run/3YVi)
- - [Avery Elle - Elle Ments Dies Dotted Border](!https://www.joann.com/elle-ments-dies-dotted-borders/14342083.html)
- - [Cloud Stencil](!https://honeybeestamps.com/products/outdoor-scene-builder-stencils-set-of-4?_pos=1&_sid=0e79358c7&_ss=r)
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
- - [Copic Markers](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - I have only used it for sentiments
+ - [Avery Elle - Peek a boo pets](https://amz.run/3YVi)
+ - [Avery Elle - Elle Ments Dies Dotted Border](https://www.joann.com/elle-ments-dies-dotted-borders/14342083.html)
+ - [Cloud Stencil](https://honeybeestamps.com/products/outdoor-scene-builder-stencils-set-of-4?_pos=1&_sid=0e79358c7&_ss=r)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Copic Markers](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - I have only used it for sentiments
  
 Hope you enjoyed reading this, and I just can't wait to see what you'll create. 
 

@@ -24,12 +24,12 @@ Bansari
 
 #### Supplies Used
 ##### Stamps + Dies
- - [Crafty Meraki Diwali Stamps](!https://craftymeraki.com/products/crafty-meraki-diwali-greetings-clear-stamp-set?_pos=6&_sid=8cf5dfb81&_ss=r&variant=32892024029274)
+ - [Crafty Meraki Diwali Stamps](https://craftymeraki.com/products/crafty-meraki-diwali-greetings-clear-stamp-set?_pos=6&_sid=8cf5dfb81&_ss=r&variant=32892024029274)
 
 ##### Color
  - PrismaColors
 
 ##### Paper
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
 
  

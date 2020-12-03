@@ -26,18 +26,18 @@ Bansari
 
 #### Supplies Used
 ##### Stamps + Dies
- - [Diwali Sentiment Dies](!https://craftymeraki.com/products/happy-diwali-word-die?variant=32913260511322)
- - [Altenew Stencil](!https://altenew.com/products/halftone-stencil)
- - [Star Stencil](!https://www.scrapbook.com/store/ecp-rem208034.html?w=echo+park+remember+the+magic)
+ - [Diwali Sentiment Dies](https://craftymeraki.com/products/happy-diwali-word-die?variant=32913260511322)
+ - [Altenew Stencil](https://altenew.com/products/halftone-stencil)
+ - [Star Stencil](https://www.scrapbook.com/store/ecp-rem208034.html?w=echo+park+remember+the+magic)
 
 ##### Color
  - Distress Inks - Fossilized Amber, Spiced Marmalade, Abandoned Coral, Picked Raspberry, Wilted Violet, Faded Jeans
 
 ##### Paper
- - [Glitter Foam Sheet](!https://bityl.co/4Pll)
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Glitter Foam Sheet](https://bityl.co/4Pll)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
 
 ##### Misc
- - [Awesome Blender Brushes](!https://amz.run/3w88)
- - [Die Cutting Machine](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) 
+ - [Awesome Blender Brushes](https://amz.run/3w88)
+ - [Die Cutting Machine](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) 
  

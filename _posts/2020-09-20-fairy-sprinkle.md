@@ -21,9 +21,9 @@ Bansari
 #### Supplies Used
 
 ##### Stamps + Dies
- - [MFT Flower Fairies](!https://mftstamps.com/products/flower-fairies)
- - [MFT Flower Fairies Dies](!https://mftstamps.com/products/flower-fairies-die-namics)
- - [Strathmore Water Color Paper Pad](!https://amz.run/3qkV)
- - [Mijello Mission Gold Water Color Palette Set, 36 Colors](!https://amz.run/3qmL)
- - [Zig Clean Brush Marker](!https://amz.run/3qmK)
+ - [MFT Flower Fairies](https://mftstamps.com/products/flower-fairies)
+ - [MFT Flower Fairies Dies](https://mftstamps.com/products/flower-fairies-die-namics)
+ - [Strathmore Water Color Paper Pad](https://amz.run/3qkV)
+ - [Mijello Mission Gold Water Color Palette Set, 36 Colors](https://amz.run/3qmL)
+ - [Zig Clean Brush Marker](https://amz.run/3qmK)
  

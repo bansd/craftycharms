@@ -15,7 +15,7 @@ Phew, a second post, Yay! Today, I'll be making three different cards using one 
 
 I am using we are memory keepers precision press, but you can tool any stamping tool you own. I would recommend you to use a stamping tool, as it makes stamping process so much easier. Now, it's also fine if you don't have stamping tool, you can probably make some adjustments using ruler and stamping block.
 
-So, for my first card, I have used [hero arts - everything smiles](!https://www.joann.com/hero-arts-stamp-cut-everything-smiles/15405616.html) stamp set. 
+So, for my first card, I have used [hero arts - everything smiles](https://www.joann.com/hero-arts-stamp-cut-everything-smiles/15405616.html) stamp set. 
 1. Put each stamp at equal distance on your stamping grid. I have put them at 1 inch marker, both horizontally and vertically. 
 2. I have used black memento dye ink for all the cards to stamp on 4.5 by 5.5 watercolor paper.
 3. I wanted my first card to look bright and peppy. I have used bright and flourescent tombow markers. You can use watercolors, crayons, marker. Just go wild!
@@ -31,11 +31,11 @@ And for third card I have used candy set from jillibean stamps. I had someone am
 - You can create poly, duo, or mono color theme. Or even just color few randomly, it is upto your creativity and follow your heart.
 
 #### Supplies
- - [Hero Arts - Everything Smiles](!https://www.joann.com/hero-arts-stamp-cut-everything-smiles/15405616.html)
- - [Tombow Brush Pens](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
- - [PrismaColor Pencils](!https://www.amazon.com/Prismacolor-3598T-Premier-Colored-Pencils/dp/B00006IEEV)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - I have only used it for sentiments
- - [Water Color Paper 110-180lb](!https://www.amazon.com/Strathmore-440-1-Watercolor-Bound-Sheets/dp/B0027AGLM2) - Any Brand should work 
+ - [Hero Arts - Everything Smiles](https://www.joann.com/hero-arts-stamp-cut-everything-smiles/15405616.html)
+ - [Tombow Brush Pens](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [PrismaColor Pencils](https://www.amazon.com/Prismacolor-3598T-Premier-Colored-Pencils/dp/B00006IEEV)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - I have only used it for sentiments
+ - [Water Color Paper 110-180lb](https://www.amazon.com/Strathmore-440-1-Watercolor-Bound-Sheets/dp/B0027AGLM2) - Any Brand should work 
  
 Hope you enjoyed reading this, and I just can't wait to see what you'll create. 
 

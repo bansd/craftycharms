@@ -38,9 +38,9 @@ Bansari
 #### Supplies Used
 
 ##### Stamps + Dies
- - [MFT Happy Campers](!https://mftstamps.com/products/sy-happy-campers)
- - [MFT Happy Campers Dienamics](!https://mftstamps.com/products/sy-happy-campers-die-namics)
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
- - [Copic Markers](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
+ - [MFT Happy Campers](https://mftstamps.com/products/sy-happy-campers)
+ - [MFT Happy Campers Dienamics](https://mftstamps.com/products/sy-happy-campers-die-namics)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Copic Markers](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
  

@@ -21,16 +21,16 @@ That's all folks! I hope you enjoyed reading this post. See you soon!
 
 ### Supplies Used
 ##### Stamps
- - [Peony Bouquet Builer Combo](!https://waffleflower.com/products/peony-bouquet-combo?_pos=1&_psq=bouquet&_ss=e&_v=1.0)
+ - [Peony Bouquet Builer Combo](https://waffleflower.com/products/peony-bouquet-combo?_pos=1&_psq=bouquet&_ss=e&_v=1.0)
 
 ##### Colors
- - [Memento Black Ink Pad](!https://amz.run/3qfD)
- - [Distress Antique Linen Ink](!https://amz.run/3qgY)
- - [Dr. Ph. Martin's Radiant Concentrated Water Color](!https://amz.run/3qkS)
+ - [Memento Black Ink Pad](https://amz.run/3qfD)
+ - [Distress Antique Linen Ink](https://amz.run/3qgY)
+ - [Dr. Ph. Martin's Radiant Concentrated Water Color](https://amz.run/3qkS)
 
 ##### Paper
- - [Strathmore Water Color Paper Pad](!https://amz.run/3qkV)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
+ - [Strathmore Water Color Paper Pad](https://amz.run/3qkV)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
 
 Well, I hope you all have a great day ahead and thanks for stopping by!
 

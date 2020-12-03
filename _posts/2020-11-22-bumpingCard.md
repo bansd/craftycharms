@@ -39,24 +39,24 @@ Bansari
 
 #### Supplies Used
 ##### Stamps + Dies
- - [Avery Elle Peek a boo Fair Stamps](!https://www.averyelle.com/peek-a-boo-fair-clear-stamps/)
- - [Avery Elle Peek a boo Coaster Stamps](!https://www.averyelle.com/peek-a-boo-coaster-clear-stamps/)
- - [Avery Elle Peek a boo Summer Pals Stamps](!https://www.averyelle.com/peek-a-boo-summer-pals-clear-stamps/)
- - [Avery Elle Peek a boo Fair Dies](!https://www.averyelle.com/die-peek-a-boo-fair-elle-ments/)
- - [Avery Elle Peek a boo Coaster Dies](!https://www.averyelle.com/die-peek-a-boo-coaster-elle-ments/)
- - [Avery Elle Peek a boo Summer Pals Dies](!https://www.ellenhutson.com/peek-a-boo-summer-pals-avery-elle-ments-dies/)
- - [MFT Double Slider Loops](!https://mftstamps.com/products/double-slider-loop-slots-die-namics)
+ - [Avery Elle Peek a boo Fair Stamps](https://www.averyelle.com/peek-a-boo-fair-clear-stamps/)
+ - [Avery Elle Peek a boo Coaster Stamps](https://www.averyelle.com/peek-a-boo-coaster-clear-stamps/)
+ - [Avery Elle Peek a boo Summer Pals Stamps](https://www.averyelle.com/peek-a-boo-summer-pals-clear-stamps/)
+ - [Avery Elle Peek a boo Fair Dies](https://www.averyelle.com/die-peek-a-boo-fair-elle-ments/)
+ - [Avery Elle Peek a boo Coaster Dies](https://www.averyelle.com/die-peek-a-boo-coaster-elle-ments/)
+ - [Avery Elle Peek a boo Summer Pals Dies](https://www.ellenhutson.com/peek-a-boo-summer-pals-avery-elle-ments-dies/)
+ - [MFT Double Slider Loops](https://mftstamps.com/products/double-slider-loop-slots-die-namics)
 
 ##### Color
  - Copic Markers
- - [Distress Ink Fossilized Amber](!https://craftymeraki.com/products/tim-holtz-distress%C2%AE-ink-pad-fossilized-amber-tim43225)
- - [Distress Ink Wild Honey](!https://craftymeraki.com/products/tim-holtz-distress%C2%AE-ink-pad-wild-honey-tim27201)
+ - [Distress Ink Fossilized Amber](https://craftymeraki.com/products/tim-holtz-distress%C2%AE-ink-pad-fossilized-amber-tim43225)
+ - [Distress Ink Wild Honey](https://craftymeraki.com/products/tim-holtz-distress%C2%AE-ink-pad-wild-honey-tim27201)
 
 ##### Paper
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
  - [Orange Card Paper](!I bought it from local crafts store)
 
 ##### Misc
- - [Die Cutting Machine](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
- - [Hero Arts Misti Stamping tool](!https://www.joann.com/hero-arts-misti-black/17374133.html)
- - [Blending Brushes](!https://amz.run/41xH)
+ - [Die Cutting Machine](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
+ - [Hero Arts Misti Stamping tool](https://www.joann.com/hero-arts-misti-black/17374133.html)
+ - [Blending Brushes](https://amz.run/41xH)

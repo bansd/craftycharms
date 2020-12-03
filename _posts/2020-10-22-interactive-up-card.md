@@ -31,17 +31,17 @@ Bansari
 #### Supplies Used
 I'll be adding Amazon/Joann links 
 ##### Stamps + Dies
- - [MFT Balloon Bundle Stamp](!https://mftstamps.com/products/balloon-bundle)
- - [MFT Balloon Bundle Dienamics](!https://mftstamps.com/products/balloon-bundle-die-namics)
- - [Lawn Fawn Happy Village Stamp](!https://www.lawnfawn.com/products/happy-village)
- - [Lawn Fawn Happy Village Die Cut](!https://bityl.co/46FK)
+ - [MFT Balloon Bundle Stamp](https://mftstamps.com/products/balloon-bundle)
+ - [MFT Balloon Bundle Dienamics](https://mftstamps.com/products/balloon-bundle-die-namics)
+ - [Lawn Fawn Happy Village Stamp](https://www.lawnfawn.com/products/happy-village)
+ - [Lawn Fawn Happy Village Die Cut](https://bityl.co/46FK)
 
 ##### Paper
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
 
 ##### Color
- - [Copic Markers](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [Copic Markers](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
 
 ##### Misc
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
  

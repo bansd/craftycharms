@@ -20,19 +20,19 @@ Alright, now time for interactive mechanism, I die cut all elements from interac
 
 ### Supplies Used
 ##### Stamps
- - [Pretty Pink Posh Monkey Friends](!https://prettypinkposh.com/products/monkey-friends-stamp-set)
- - [Pretty Pink Posh Monkey Friends Dies](!https://prettypinkposh.com/products/monkey-friends-coordinating-dies)
- - [Stitched Leafy Borders Dies](!https://prettypinkposh.com/collections/borders/products/stitched-leafy-borders-dies)
- - [MFT Swing Dienamics](!https://mftstamps.com/products/interactive-swing-die-namics)
- - [Jungle Background Stencil](!https://prettypinkposh.com/collections/stencils/products/jungle-background-stencil)
+ - [Pretty Pink Posh Monkey Friends](https://prettypinkposh.com/products/monkey-friends-stamp-set)
+ - [Pretty Pink Posh Monkey Friends Dies](https://prettypinkposh.com/products/monkey-friends-coordinating-dies)
+ - [Stitched Leafy Borders Dies](https://prettypinkposh.com/collections/borders/products/stitched-leafy-borders-dies)
+ - [MFT Swing Dienamics](https://mftstamps.com/products/interactive-swing-die-namics)
+ - [Jungle Background Stencil](https://prettypinkposh.com/collections/stencils/products/jungle-background-stencil)
 
 ##### Colors
- - [Memento Black Ink Pad](!https://amz.run/3qfD)
- - [Distress Inks Various Colors](!https://amz.run/3qgY)
+ - [Memento Black Ink Pad](https://amz.run/3qfD)
+ - [Distress Inks Various Colors](https://amz.run/3qgY)
 
 ##### Paper
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
 
 And that's all! Hope you enjoyed reading this and thanks for stopping by!
 

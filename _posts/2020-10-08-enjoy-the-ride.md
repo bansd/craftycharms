@@ -24,20 +24,20 @@ For the first card, I picked the fall evening theme. Normally, I take so many si
 <br>
 ### Supplies Used
 ##### Stamps
- - [Stamping Bella Enjoy the ride](!https://amz.run/3qgW)
+ - [Stamping Bella Enjoy the ride](https://amz.run/3qgW)
 
 ##### Dies
- - [My Favorite Things A2 stitched rectangle stax set 1](!https://mftstamps.com/products/a2-stitched-rectangle-stax-set-2-die-namics)
+ - [My Favorite Things A2 stitched rectangle stax set 1](https://mftstamps.com/products/a2-stitched-rectangle-stax-set-2-die-namics)
 
 ##### Colors
- - [Memento Black Ink Pad](!https://amz.run/3qfD)
- - [Distress Antique Linen Ink](!https://amz.run/3qgY)
- - [Copic Markers](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [Memento Black Ink Pad](https://amz.run/3qfD)
+ - [Distress Antique Linen Ink](https://amz.run/3qgY)
+ - [Copic Markers](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
 
 ##### Paper
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
  - Wink of Stella clear glitter pen
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U)
 
 Well, I hope you all have a great day ahead and thanks for stopping by!
 

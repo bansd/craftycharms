@@ -26,14 +26,14 @@ Bansari
 
 #### Supplies Used
 ##### Stamps + Dies
- - [TLC Dreamer Stampset](!https://tlcdesigns.shop/collections/clear-stamps-sentiments/products/dreamer-the-dragon)
- - [TLC Double Dial Die 1](!https://tlcdesigns.shop/products/double-dial-die-1)
- - [TLC See you in the Center](!https://tlcdesigns.shop/products/see-you-in-the-center-interactive-die)
+ - [TLC Dreamer Stampset](https://tlcdesigns.shop/collections/clear-stamps-sentiments/products/dreamer-the-dragon)
+ - [TLC Double Dial Die 1](https://tlcdesigns.shop/products/double-dial-die-1)
+ - [TLC See you in the Center](https://tlcdesigns.shop/products/see-you-in-the-center-interactive-die)
 
 ##### Color
  - Copic Markers
 
 ##### Paper
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
 
  

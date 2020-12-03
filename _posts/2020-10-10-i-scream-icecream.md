@@ -20,13 +20,13 @@ My sentiment stamp is from sweetest wishes by MFT, where I have stamped it on a 
 
 #### Supplies Used
 I'll be adding Amazon/Joann links 
-- [Hero Arts Layering Ice Cream](!https://amz.run/3qfB)
-- [Memento Black Ink Pad](!https://amz.run/3qfD)
-- [MFT Sweetest Wishes Stamp](!https://mftstamps.com/products/sweet-celebrations?_pos=1&_sid=4900a962a&_ss=r)
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
- - [Altenew Mini Ink Pads](!https://altenew.com/products/sweet-fabulous-mini-cube-set-release-bundle)
- - [Nuvo Drops](!https://www.tonic-studios.com/pages/search-results-page?q=nuvo+drops+collection)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
+- [Hero Arts Layering Ice Cream](https://amz.run/3qfB)
+- [Memento Black Ink Pad](https://amz.run/3qfD)
+- [MFT Sweetest Wishes Stamp](https://mftstamps.com/products/sweet-celebrations?_pos=1&_sid=4900a962a&_ss=r)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Altenew Mini Ink Pads](https://altenew.com/products/sweet-fabulous-mini-cube-set-release-bundle)
+ - [Nuvo Drops](https://www.tonic-studios.com/pages/search-results-page?q=nuvo+drops+collection)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
  
 Hope you enjoyed reading this, and I just can't wait to see what you'll create. 
 

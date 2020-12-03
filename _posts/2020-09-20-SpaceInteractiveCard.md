@@ -37,16 +37,16 @@ And that’s all folks, you get a 3D space card with lot of surprises!
 
 #### Supplies Used
 I'll be adding Amazon/Joann links
- - [MFT Blast off Dienamics](!https://mftstamps.com/products/blast-off-die-namics?_pos=6&_sid=44b4015aa&_ss=r)
- - [MFT Best Friends in the Universe](!https://mftstamps.com/products/best-friends-in-the-universe?_pos=9&_sid=44b4015aa&_ss=r)
- - [MFT Cloud Stencil](!https://mftstamps.com/products/cloud-stencil?_pos=1&_sid=addadffc7&_ss=r)
- - [MFT SY Pawty Time](!https://mftstamps.com/products/cloud-stencil?_pos=1&_sid=addadffc7&_ss=r)
- - [MFT BB Birthday-Yay](!https://mftstamps.com/products/sy-pawty-time?_pos=25&_sid=8b63c2280&_ss=r)
- - [MFT SY Pawty Time](!https://mftstamps.com/products/sy-pawty-time?_pos=25&_sid=8b63c2280&_ss=r)
- - [MFT Swing Dienamics](!https://mftstamps.com/products/interactive-swing-die-namics?_pos=1&_sid=a8c6fa3ef&_ss=r)
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
- - [Copic Markers](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
+ - [MFT Blast off Dienamics](https://mftstamps.com/products/blast-off-die-namics?_pos=6&_sid=44b4015aa&_ss=r)
+ - [MFT Best Friends in the Universe](https://mftstamps.com/products/best-friends-in-the-universe?_pos=9&_sid=44b4015aa&_ss=r)
+ - [MFT Cloud Stencil](https://mftstamps.com/products/cloud-stencil?_pos=1&_sid=addadffc7&_ss=r)
+ - [MFT SY Pawty Time](https://mftstamps.com/products/cloud-stencil?_pos=1&_sid=addadffc7&_ss=r)
+ - [MFT BB Birthday-Yay](https://mftstamps.com/products/sy-pawty-time?_pos=25&_sid=8b63c2280&_ss=r)
+ - [MFT SY Pawty Time](https://mftstamps.com/products/sy-pawty-time?_pos=25&_sid=8b63c2280&_ss=r)
+ - [MFT Swing Dienamics](https://mftstamps.com/products/interactive-swing-die-namics?_pos=1&_sid=a8c6fa3ef&_ss=r)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Copic Markers](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
  
 Hope you enjoyed reading this, and I just can't wait to see what you'll create. 
 

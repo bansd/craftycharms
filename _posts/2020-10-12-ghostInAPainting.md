@@ -23,13 +23,13 @@ And lastly, for the sentiment, I have used "You're my favorite Creeper from MFT"
 
 #### Supplies Used
 I'll be adding Amazon/Joann links 
- - [MFT Ghostly Greetings](!https://mftstamps.com/products/ghostly-greetings)
- - [MFT Ghostly Greetings Dienamics](!https://mftstamps.com/products/ghostly-greetings-die-namics)
- - [Lawn Fawn Rectangle Frame](!https://www.lawnfawn.com/products/stitched-scalloped-rectangle-frames)
- - [MFT Swing Dienamics](!https://mftstamps.com/products/interactive-swing-die-namics)
- - [Neenah Solar white Cardstock](!https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
- - [Copic Markers](!https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
- - [Die Cutting Machine(Optional)](!https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
+ - [MFT Ghostly Greetings](https://mftstamps.com/products/ghostly-greetings)
+ - [MFT Ghostly Greetings Dienamics](https://mftstamps.com/products/ghostly-greetings-die-namics)
+ - [Lawn Fawn Rectangle Frame](https://www.lawnfawn.com/products/stitched-scalloped-rectangle-frames)
+ - [MFT Swing Dienamics](https://mftstamps.com/products/interactive-swing-die-namics)
+ - [Neenah Solar white Cardstock](https://www.joann.com/classic-crest-250-pk-8.5x11-cardstocks-solar-white/15722937.html)
+ - [Copic Markers](https://www.amazon.com/Tombow-56185-Markers-10-Pack-Blendable/dp/B00JVB8FBA)
+ - [Die Cutting Machine(Optional)](https://www.amazon.com/Sizzix-660425-Machine-8-Inch-White/dp/B00R50G34U) - 
  
 Hope you enjoyed reading this, and I just can't wait to see what you'll create. 
 
